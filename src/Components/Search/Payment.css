@@ -1,0 +1,10 @@
+.container{
+    color: green;
+}
+.payment{
+/* height: 89vh; */
+    background-image: url(https://thumbs.dreamstime.com/z/plastic-card-hand-flat-icon-hand-holding-credit-card-color-icons-trendy-flat-style-payment-gradient-style-design-plastic-144132393.jpg);
+}
+.black{
+    color: blue;
+}

@@ -1,0 +1,31 @@
+.regform{
+    margin-top: 5px;
+    width: 800px;
+    background-color: rgb(0,0,0,6);
+    margin: auto;
+    color: #FFFFFF;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+form{
+    padding: 55.5px;
+}
+.main{
+    background-color: rgb(0,0,0,0.5 );
+    width: 800px;
+    margin: auto;
+}
+.userlabel{
+    font-size: 18px;
+    font-style: bold italic;
+   color:whitesmoke;
+   margin-right: 10px;
+}
+.reg1{
+    background: url("https://www.lemax.net/wp-content/uploads/2018/04/flight-booking-software-fb.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+}

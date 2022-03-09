@@ -1,0 +1,16 @@
+.im2{
+    width: 50%;
+    height: 55vh;
+
+}
+.back{
+    
+    background-image: url("https://onlyvectorbackgrounds.com/wp-content/uploads/2020/06/Simple-Gradient-Background-Dark.jpg");
+    
+    background-position: center;
+    height: 100vh;
+    padding-top: 20vh;
+}
+.back{
+    color: aliceblue;
+}

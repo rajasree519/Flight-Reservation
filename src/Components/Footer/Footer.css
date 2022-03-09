@@ -1,0 +1,19 @@
+.copyright{
+    color: black;
+}
+.footerbackground{
+    /* background:linear-gradient(90deg,blue,white) ; */
+    background: rgb(5, 5, 68);
+    color: black;
+    margin-top: 50px;
+    padding-top: 50px;
+    
+}
+.copy{
+    color: white;
+    text-align: center;
+
+}
+.write{
+    color: white;
+}
